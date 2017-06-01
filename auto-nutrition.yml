@@ -1,4 +1,4 @@
 ---
 wordConfig:
-  ndbIds : 09004,09252,09040,09021,09236,09316,09089,09176,09139,09050,09042,09148,09001,09226,09279,11422,11124,11233,11080,11457,11507,11167
-  nutritionOrder : Water|Energy|Protein|Total lipid (fat)|Carbohydrate, by difference|Fiber, total dietary|Sugars, total|Calcium, Ca|Iron, Fe|Magnesium, Mg|Phosphorus, P|Potassium, K|Sodium, Na|Zinc, Zn|Vitamin C, total ascorbic acid|Thiamin|Riboflavin|Niacin|Vitamin B-6|Folate, DFE|Vitamin B-12|Vitamin A, RAE|Vitamin E (alpha-tocopherol)|Vitamin D (D2 + D3)|Vitamin K (phylloquinone)
+  ndbIds: 09004,09252,09040,09021,09236,09316,09089,09176,09139,09050,09042,09148,09001,09226,09279,11422,11124,11233,11080,11457,11507,11167
+  nutritionOrder: Water|Energy|Protein|Total lipid (fat)|Carbohydrate, by difference|Fiber, total dietary|Sugars, total|Calcium, Ca|Iron, Fe|Magnesium, Mg|Phosphorus, P|Potassium, K|Sodium, Na|Zinc, Zn|Vitamin C, total ascorbic acid|Thiamin|Riboflavin|Niacin|Vitamin B-6|Folate, DFE|Vitamin B-12|Vitamin A, RAE|Vitamin E (alpha-tocopherol)|Vitamin D (D2 + D3)|Vitamin K (phylloquinone)
